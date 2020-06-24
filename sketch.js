@@ -8,6 +8,7 @@ let somDoJogo;
 let personagem;
 let inimigo;
 
+
 const matrizInimigo = [
   [0, 0],
   [104, 0],
@@ -77,6 +78,9 @@ function setup() {
   somDoJogo.loop();
 }
 
+function mousePressed() {
+  personagem.pula();
+}
 
 function keyPressed (event) {
   if (event.keyCode == 32 || event.which == 32) {
@@ -98,7 +102,6 @@ function draw() {
 
   if (personagem.estaColidindo(inimigo)) {
     console.log('colidiu')
-    
   }
 
 }
