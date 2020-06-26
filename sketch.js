@@ -153,7 +153,7 @@ function preload() {
   imagemInimigo = loadImage('imagens/inimigos/gotinha.png');
   imagemInimigoTroll = loadImage('imagens/inimigos/troll.png');
   imagemInimigoVoador = loadImage('imagens/inimigos/gotinha-voadora.png');
-  imagemGameOver = loadImage('imagens/gameover/gameover.png');
+  imagemGameOver = loadImage('imagens/assets/game-over.png');
   somJogo = loadSound('sons/trilha_jogo.mp3');
   somPulo = loadSound('sons/somPulo.mp3');
   somLamp = loadSound('sons/coin.mp3');
@@ -173,6 +173,10 @@ function setup() {
   lampada = new Pontos(matrizLampada, imagemLampada, width - 52, 320, 120, 120, 400, 400, 8, 100);
   frameRate(40);
    
+}
+
+function mousePressed() {
+  personagem.pula();
 }
 
 function keyPressed(event) {
