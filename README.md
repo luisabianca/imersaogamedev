@@ -10,7 +10,8 @@ Este projeto foi executado durante as aulas da [#ImersaoGameDev](https://www.alu
 - JavaScript
 
 ## 🎨 Projetos
-*✓ Em desenvolvimento*
+
+⚙ <i>Em desenvolvimento</i>
 
 - Criação de um jogo em JavaScript.
 
