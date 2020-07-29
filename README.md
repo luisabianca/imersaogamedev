@@ -16,4 +16,4 @@ Este projeto foi executado durante as aulas da [#ImersaoGameDev](https://www.alu
 
 ## 🖼️ Resultado
 
-![](https://github.com/luisabianca/imersaogamedev/tree/gh-pages/imagens/projeto01.png) ![](https://github.com/luisabianca/imersaogamedev/tree/gh-pages/imagens/projeto02.png) ![](https://github.com/luisabianca/imersaogamedev/tree/gh-pages/imagens/projeto03.png) ![](https://github.com/luisabianca/imersaogamedev/tree/gh-pages/imagens/projeto04.png)
+![](https://github.com/luisabianca/imersaogamedev/blob/gh-pages/imagens/projeto01.png) ![](https://github.com/luisabianca/imersaogamedev/blob/gh-pages/imagens/projeto02.png) ![](https://github.com/luisabianca/imersaogamedev/blob/gh-pages/imagens/projeto03.png) ![](https://github.com/luisabianca/imersaogamedev/blob/gh-pages/imagens/projeto04.png)
